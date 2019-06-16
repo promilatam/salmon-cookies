@@ -1,7 +1,7 @@
 nav li {
     float : left;
     height : 20px;
-    background-color :lavender;
+    background-color :rgb(149, 149, 235);
     margin-right : 20px;
   }
   
@@ -33,13 +33,13 @@ nav li {
   }
   
   td, th {
-    border: 1px solid #dddddd;
+    border: 1px solid #834242;
     text-align: left;
     padding: 8px;
   }
   
   tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #e485e7;
   }
   
   #sales-forecast {
